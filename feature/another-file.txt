@@ -1,3 +1,5 @@
-Just another file created in the featuer-1 branach
+This line was replaced in featuer-1 branach
 
 This file was modified locally
+
+This line was added in feature-2 branch 
